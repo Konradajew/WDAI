@@ -1,0 +1,55 @@
+body {
+  font-family: Georgia, Arial, Helvetica;
+}
+
+table {
+  border-collapse: collapse;
+  width: 20%;
+}
+
+td, th {
+  border: 1px solid black;
+}
+
+.square1 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  margin: 10px;
+  display: inline-block;
+}
+
+.square2 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 10px;
+  display: inline-block;
+}
+
+.square3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 10px;
+  display: inline-block;
+}
+
+.square4 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 10px;
+  display: inline-block;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.square5 {
+  display: inline-block;
+}
