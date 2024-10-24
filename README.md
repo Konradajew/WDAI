@@ -1,2 +1,3 @@
 # WDAI
-wdai
+Konrad Szymański
+gr 8
